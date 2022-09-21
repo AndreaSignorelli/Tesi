@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FlatScreen.unity
+- path: Assets/Scenes/Projector2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
